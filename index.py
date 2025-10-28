@@ -6,5 +6,5 @@ print('hi')
 
 
 
-print('hi'); eazeaze
+judzjud; eazeaze
 print('hi')
